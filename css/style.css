@@ -1,3 +1,15 @@
 body {
   background-color: #a3d5d3;
 }
+.column {
+  
+  min-width: 100px;
+  min-height: 20vh;
+  background-color: #739b7a;
+  margin-left: 8px;
+  list-style: none;
+  position: relative;
+}
+.column-title {
+	color: green;
+}
